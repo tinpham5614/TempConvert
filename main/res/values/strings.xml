@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TempCon</string>
+    <string name="textview">TextView</string>
+    <string name="fahrenheit">Fahrenheit</string>
+</resources>
